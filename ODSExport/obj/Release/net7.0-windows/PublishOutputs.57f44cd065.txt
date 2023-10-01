@@ -1,0 +1,7 @@
+D:\VS_Projects\ODSExport\ODSExport\bin\Release\net7.0-windows\app.publish\ODSExport.exe
+D:\VS_Projects\ODSExport\ODSExport\bin\Release\net7.0-windows\app.publish\ODSExport.dll
+D:\VS_Projects\ODSExport\ODSExport\bin\Release\net7.0-windows\app.publish\ODSExport.deps.json
+D:\VS_Projects\ODSExport\ODSExport\bin\Release\net7.0-windows\app.publish\ODSExport.runtimeconfig.json
+D:\VS_Projects\ODSExport\ODSExport\bin\Release\net7.0-windows\app.publish\ODSExport.pdb
+D:\VS_Projects\ODSExport\ODSExport\bin\Release\net7.0-windows\app.publish\DotNetZip.dll
+D:\VS_Projects\ODSExport\ODSExport\bin\Release\net7.0-windows\app.publish\OdsReaderWriter.dll
