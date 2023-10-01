@@ -6,7 +6,8 @@ I did it just to do it after a person on Reddit asked about exporting 1 sheet fr
 There isn't much for error handling and there are no warranties while using the code. Do with it as you will.
 
 Added the ability to select which delimiter to use when exporting the data from the ODS sheet. 
-Added the publish portable files you can download from the \bin\publish folder
+Added the setup files you can download from the \bin\publish folder or just copy the files from \bin\Release/net7.0-windows
+
 
 
 Screenshots:
